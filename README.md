@@ -8,4 +8,4 @@ In the Cisco Packet Tracer program, a network was designed for two IoT buildings
  IoT House:
 ![image](https://github.com/user-attachments/assets/8f03e5b9-690d-4aef-94ce-c1a63cebe4bb)
 
-![ip](https://github.com/user-attachments/assets/e5cc8f81-5af4-4e45-8f37-3b3da2605bed)
+![ip](https://github.com/user-attachments/assets/076d5540-7d14-491e-a534-6b84cb5ef064)
